@@ -1,0 +1,13 @@
+{
+
+"Request" :{
+
+"Body_POST" : {
+
+"FrqFlierNumber":"FM12345678",
+"FlightNumber": "FLY123",
+"Date" : "20/10/2020"
+
+}
+}
+}
